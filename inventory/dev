@@ -1,0 +1,2 @@
+db]
+34.204.178.191 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/mac_book.pem

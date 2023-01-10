@@ -1,0 +1,15 @@
+2023-01-10 15:32:25.208 [info] Extension host agent started.
+2023-01-10 15:32:25.584 [info] [127.0.0.1][4b329f2a][ManagementConnection] New connection established.
+2023-01-10 15:32:25.622 [info] [127.0.0.1][f8b8a570][ExtensionHostConnection] New connection established.
+2023-01-10 15:32:25.626 [info] [127.0.0.1][f8b8a570][ExtensionHostConnection] <1218> Launched Extension Host Process.
+2023-01-10 15:33:01.195 [info] [127.0.0.1][4b329f2a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-10 15:33:01.212 [info] [127.0.0.1][f8b8a570][ExtensionHostConnection] <1218> Extension Host Process exited with code: 0, signal: null.
+2023-01-10 15:33:01.213 [info] Last EH closed, waiting before shutting down
+2023-01-10 15:33:03.199 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-10 15:33:03.200 [info] Cancelling previous shutdown timeout
+2023-01-10 15:33:03.469 [info] [127.0.0.1][be9a7d87][ManagementConnection] New connection established.
+2023-01-10 15:33:03.686 [info] [127.0.0.1][bdcebff2][ExtensionHostConnection] New connection established.
+2023-01-10 15:33:03.692 [info] [127.0.0.1][bdcebff2][ExtensionHostConnection] <1375> Launched Extension Host Process.
+2023-01-10 15:38:03.233 [info] New EH opened, aborting shutdown
+2023-01-10 15:43:52.009 [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+2023-01-10 15:43:52.009 [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc

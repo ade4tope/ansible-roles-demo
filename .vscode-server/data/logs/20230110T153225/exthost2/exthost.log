@@ -1,0 +1,54 @@
+2023-01-10 15:33:05.111 [info] Extension host with pid 1375 started
+2023-01-10 15:33:05.127 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aec5f966ea4f1aeea3c3789657c1a69c/vscode.lock'
+2023-01-10 15:33:05.148 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aec5f966ea4f1aeea3c3789657c1a69c/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-01-10 15:33:05.157 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aec5f966ea4f1aeea3c3789657c1a69c/vscode.lock': The pid 1445 appears to be gone.
+2023-01-10 15:33:05.157 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aec5f966ea4f1aeea3c3789657c1a69c/vscode.lock': Deleting a stale lock.
+2023-01-10 15:33:05.162 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/aec5f966ea4f1aeea3c3789657c1a69c/vscode.lock': Lock acquired.
+2023-01-10 15:33:05.262 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-10 15:33:05.344 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-10 15:33:05.344 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-10 15:33:05.644 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-10 15:33:05.648 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-10 15:33:05.649 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-10 15:33:05.649 [info] Eager extensions activated
+2023-01-10 15:51:51.403 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:51:53.625 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:51:58.705 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:03.787 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:08.858 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:13.931 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:19.011 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:24.078 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:29.164 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:34.243 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:39.774 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:44.841 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:49.920 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:52:54.993 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:53:00.105 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:53:05.190 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:53:16.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:53:21.726 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:53:27.199 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:53:32.543 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1830
+2023-01-10 15:53:37.728 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:53:42.803 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:53:47.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:53:53.036 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:53:58.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:03.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:08.305 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:13.381 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:18.509 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:23.602 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:28.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:33.815 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:38.885 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:44.020 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:49.088 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:52.711 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:54.168 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:54:59.234 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:55:04.326 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:55:09.477 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
+2023-01-10 15:55:14.554 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1831
